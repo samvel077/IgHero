@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #8564d5;
+        opacity: 0.1;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #8564d5;
+        stroke-linecap: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="opened" transform="translate(-474.67 -16.254)">
+    <rect id="Rectangle_2379" data-name="Rectangle 2379" class="cls-1" width="48" height="48" rx="12" transform="translate(474.67 16.254)"/>
+    <g id="icon_minus" data-name="icon / minus" transform="translate(492.772 34.356)">
+      <line id="Line_417" data-name="Line 417" class="cls-2" x1="12" transform="translate(-0.102 5.898)"/>
+    </g>
+  </g>
+</svg>
